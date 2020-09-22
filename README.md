@@ -1,2 +1,2 @@
 # cryptology
-A repository to store cryptology projects
+A repository to store cryptographic projects
